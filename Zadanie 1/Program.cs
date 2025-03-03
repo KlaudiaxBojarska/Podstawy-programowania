@@ -13,7 +13,6 @@ namespace Zadanie_1
             //Napisać program wypisujący na ekranie tekst "Witaj Świecie"
             Console.WriteLine("Witaj Świecie");
             Console.ReadKey(true);
-
         }
     }
 }
